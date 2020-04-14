@@ -1,5 +1,5 @@
 # AVR
-A collection of examples for use with the Advance VR Framework for Unreal Engine from SSZ Canada.
+A collection of examples from SSZ Canada for use with the Advance VR Framework for Unreal Engine made by Human Codeable.
 
 All examples require you to own the paid asset Advanced VR Framework for Unreal Engine which can be found at
 https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework

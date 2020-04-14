@@ -15,4 +15,12 @@ BP_Lure
   
 BP_MultiGrabFirstMesh + BP_MuiltiGrabSecondMesh
   An example of connecting 2 grab actors together which both have grab components.
+  
+BP_Vehcile
+  Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
+  
+TrackGenerator
+Bsed on the Live Training sesion from Unreal it easily allows you to create roads to drive on using a spline mesh system.
+
+
  

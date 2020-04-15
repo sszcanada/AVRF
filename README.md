@@ -33,17 +33,17 @@ You may use any of these examples in any way you would like commercial or otherw
 
 **BP_FishingPole**
 <br>
-  A basic fishing pole which a physics connection holding the lure at the end of the line.
+  A basic fishing pole which a physics connection holding the physics lure at the end of the line.
 <br>
 <br>
 **BP_Lure**
 <br>
-  Basic lure to connect to the end of the fishing pole.
+  Basic lure with physics enable to connect to the end of the fishing poles line.
 <br>
 <br>
 **BP_MultiGrabFirstMesh + BP_MuiltiGrabSecondMesh**
 <br>
-An example of connecting 2 actors together which both have grab components.
+An example of connecting 2 actors together when both have grab components.
 <br>
 <br> 
 **BP_Vehcile**

@@ -5,7 +5,13 @@ All examples require you to own the paid asset Advanced VR Framework for Unreal 
 https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
 
 
-Examples
+# How To Use
+Download a copy of Advnace VR Framework from the Unreal Marketplace
+Add the Contenet folder in this repo to your newly installed project directory.
+Enjoy your examples :)
+
+
+# Whats Inside
 
 BP_FishingPole
   A basic fishing pole which a physics connection holding the lure at the end of the line.

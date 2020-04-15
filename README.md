@@ -73,6 +73,8 @@ Based on the Live Training session from Unreal it easily allows you to create ro
 An example of loading and unloading maps from anywhere in your project folder without using the level streaming system.
 <br>
 <br>
-**BP_UnifiedLevelSettingss**
+**BP_UnifiedLevelSettings**
 <br>
-Add to you level to easily configure all of the required AVRF files in your level. Also includes examples of changing your controllers during runtime. 
+Add to you level to easily configure all of the required AVRF files in your level. Also includes examples of changing your controllers during runtime.
+<br>
+**Note BP_Helper_Debug is now inside of that blueprint and you do not require a second copy only the Unified Level Settings Blueprint**

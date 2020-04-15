@@ -46,7 +46,7 @@ BP_Vehcile
 **Note For some reason pointers are the only controller type that seem to work well at higher speeds**  
 
 TrackGenerator
-Based on the Live Training sesion from Unreal it easily allows you to create roads to drive on using a spline mesh system.
+Based on the Live Training session from Unreal it easily allows you to create roads to drive on using a spline mesh system.
 
 
  

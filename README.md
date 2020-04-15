@@ -43,7 +43,7 @@ You may use any of these examples in any way you would like commercial or otherw
 <br>
 **BP_MultiGrabFirstMesh + BP_MuiltiGrabSecondMesh**
 
-  An example of connecting 2 grab actors together which both have grab components.
+  An example of connecting 2 actors together which both have grab components.
 <br>
 <br> 
 **BP_Vehcile**

@@ -57,5 +57,11 @@ An example of connecting 2 actors together which both have grab components.
 <br>
 Based on the Live Training session from Unreal it easily allows you to create roads to drive on using a spline mesh system.
 
+# Get Help
+We can often be found in the #Off-Topic channel of the Human Codeable Discord server if you have any questions or feel free to open an issue here on Discord. 
 
- 
+
+# Special Requests
+We would be happy to take some requests. Please keep in mind that this is done in our spare time to help out the community and we are not involved with the AVRF project so it might be a bit before we can get to your request. We will consider making as many examples as we can with the time we can spare away from our own project :)
+<br>
+If you would like us to create an example of something for you please send us an @ message on the Human Codeable Discord server. If we are not able to create an example for you someone there is bound to offer you adive to help solve your problem :)

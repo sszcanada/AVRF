@@ -4,7 +4,10 @@ A collection of examples from SSZ Canada for use with the Advance VR Framework f
 
 All examples require you to own the asset Advanced VR Framework for Unreal Engine which can be found at
 https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
+
 **No files from Advanced VR Framework have been included with this repo. None of their files have been modifed to make these work so a fresh laucnher version will work without issues or changes.**
+
+
 
 # How To Use
 Download a copy of Advnace VR Framework from the Unreal Marketplace
@@ -14,8 +17,10 @@ Add the Contenet folder in this repo to your newly installed project directory.
 Enjoy your examples :)
 
 
+
 # Allowed Usage 
 You may use any of these examples in any way you would like commercial or otherwise they are provided freely to you without limitation.
+
 
 
 # Whats Inside

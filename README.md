@@ -9,7 +9,7 @@ https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
 
 **No files from Advanced VR Framework have been included with this repo.**
 
-**We have not modifed any of the AVRF files to make these examples work so a fresh laucnher version of AVRF will work to load these examples without changes**
+**We have not modifed any of the AVRF files to make these examples work so a fresh laucnher version of AVRF will work to load these examples without changes being made to AVRF**
 
 
 
@@ -48,7 +48,7 @@ An example of connecting 2 actors together which both have grab components.
 <br> 
 **BP_Vehcile**
 <br>
-  Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
+  Built using the dual wishbone example project. We retrofitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
 <br>
 **Note For some reason pointers are the only controller type that seem to work well at higher speeds**
 <br>

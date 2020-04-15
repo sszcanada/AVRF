@@ -35,23 +35,23 @@ You may use any of these examples in any way you would like commercial or otherw
   
   A basic fishing pole which a physics connection holding the lure at the end of the line.
  
- 
+<br>
 **BP_Lure**
 
   Basic lure to connect to the end of the fishing pole.
  
- 
+. 
 **BP_MultiGrabFirstMesh + BP_MuiltiGrabSecondMesh**
 
   An example of connecting 2 grab actors together which both have grab components.
   
-  
+.  
 **BP_Vehcile**
   Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
 
 **Note For some reason pointers are the only controller type that seem to work well at higher speeds**  
 
-
+.
 **TrackGenerator**
 Based on the Live Training session from Unreal it easily allows you to create roads to drive on using a spline mesh system.
 

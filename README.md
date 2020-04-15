@@ -47,7 +47,7 @@ You may use any of these examples in any way you would like commercial or otherw
 <br>
 <br> 
 **BP_Vehcile**
-  Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
+  Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.<br>
 **Note For some reason pointers are the only controller type that seem to work well at higher speeds**
 <br>
 <br>

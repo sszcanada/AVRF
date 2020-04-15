@@ -43,7 +43,7 @@ BP_MultiGrabFirstMesh + BP_MuiltiGrabSecondMesh
 BP_Vehcile  
   Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
 
-**Note For some reason pointers are the only controller type that seem to work well at hihger speeds**  
+**Note For some reason pointers are the only controller type that seem to work well at higher speeds**  
 
 TrackGenerator
 Based on the Live Training sesion from Unreal it easily allows you to create roads to drive on using a spline mesh system.

@@ -1,4 +1,4 @@
-# Examples for use with Advance VR Framework
+# Examples for use with Advanced VR Framework
 A collection of examples from SSZ Canada for use with the Advance VR Framework made by Human Codeable.
 
 
@@ -16,7 +16,7 @@ https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
 
 
 # How To Use
-Download a copy of Advnace VR Framework from the Unreal Marketplace
+Download a copy of Advnaced VR Framework from the Unreal Marketplace
 
 Add the Contenet folder in this repo to your newly installed project directory.
 

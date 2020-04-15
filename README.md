@@ -65,4 +65,4 @@ We can often be found in the #Off-Topic channel of the Human Codeable Discord se
 We would be happy to take some requests. Please keep in mind that this is done in our spare time to help out the community and we are not involved with the AVRF project so it might be a bit before we can get to your request. We will consider making as many examples as we can with the time we can spare away from our own project :)
 <br>
 <br>
-If you would like us to create an example of something for you please send us an @ message on the Human Codeable Discord server in the #Off-Topic channel. Even if we are not able to create an example for you someone in the Human Codeable Discoprd server is bound to offer you advice to help create it yourself :)
+If you would like us to create an example of something for you please send us an @ message on the Human Codeable Discord server in the #Off-Topic channel. Even if we are not able to create an example for you someone in the Human Codeable Discord server is bound to offer you advice that will help you create it yourself :)

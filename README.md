@@ -66,7 +66,8 @@ An example of connecting 2 actors together when both have grab components.
 **TrackGenerator**
 <br>
 Based on the Live Training session from Unreal it easily allows you to create roads to drive on using a spline mesh system.
-**BP_MapControl**
 <br>
+<br>
+**BP_MapControl**
 <br>
 An example of loading and unloading maps from anywhere in your project folder without using the level streaming system.

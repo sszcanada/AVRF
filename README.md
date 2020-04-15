@@ -39,20 +39,17 @@ You may use any of these examples in any way you would like commercial or otherw
 **BP_Lure**
 
   Basic lure to connect to the end of the fishing pole.
- 
 <br>
 <br>
 **BP_MultiGrabFirstMesh + BP_MuiltiGrabSecondMesh**
 
   An example of connecting 2 grab actors together which both have grab components.
-  
 <br>
 <br> 
 **BP_Vehcile**
   Built using the dual wishbone example project. We retorfitted a Lever and Valve from the AVRF project then linked those values to the throttle and steering.
 
-**Note For some reason pointers are the only controller type that seem to work well at higher speeds**  
-
+**Note For some reason pointers are the only controller type that seem to work well at higher speeds**
 <br>
 <br>
 **TrackGenerator**

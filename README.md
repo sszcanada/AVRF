@@ -9,23 +9,23 @@ https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
 
 **No files from Advanced VR Framework have been included with this repo.**
 
-**We have not modifed any of the AVRF files to make these examples work so a fresh laucnher version of AVRF will work to load these examples without any changes needing to be made to AVRF**
+**We have not modified any of the AVRF files to make these examples work so a fresh launcher version of AVRF will work to load these examples without any changes needing to be made to AVRF**
 
 
 
 
 
 # How To Use
-Download a copy of Advnaced VR Framework from the Unreal Marketplace
+Download a copy of Advanced VR Framework from the Unreal Marketplace
 
-Add the Contenet folder in this repo to your newly installed project directory.
+Add the Content folder in this repo to your newly installed project directory.
 
 Enjoy your examples :)
 
 
 
 # Allowed Usage 
-The examples are provided freely to you without limitation. You may use any of these examples in any way allowed by licensing terms from Unreal Engine.
+The examples are provided free to you without limitation. You may use any of these examples in any way allowed by licensing terms from Unreal Engine.
 
 
 # Get Help
@@ -33,13 +33,13 @@ We can often be found in the #Off-Topic channel of the Human Codeable Discord se
 
 
 # Special Requests
-We would be happy to take some requests. Please keep in mind that this is done in our spare time to help out the community and we are not involved with the AVRF project so it might be a bit before we can get to your request. We will consider making as many examples as we can with the time we can spare away from our own project :)
+We would be happy to take some requests. Please keep in mind that this is done in our spare time to help out the community and we are not involved with the AVRF project so it might be a bit before we can get to your request. We will consider making as many examples as we can with the time we can spare away from our project :)
 <br>
 <br>
 If you would like us to create an example of something for you please send us an @ message on the Human Codeable Discord server in the #Off-Topic channel. Even if we are not able to create an example for you someone in the Human Codeable Discord server is bound to offer you advice that will help you create it yourself :)
 
 
-# Whats Inside
+# What's Inside
 
 **BP_FishingPole**
 <br>

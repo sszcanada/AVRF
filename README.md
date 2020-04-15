@@ -1,5 +1,5 @@
 # Examples for use with Advanced VR Framework
-A collection of examples from SSZ Canada for use with the Advance VR Framework made by Human Codeable.
+A collection of examples from SSZ Canada for use with the Advanced VR Framework made by Human Codeable.
 
 
 All examples require you to own the asset Advanced VR Framework for Unreal Engine which can be found at

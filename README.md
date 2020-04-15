@@ -7,9 +7,9 @@ https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
 
 # SPECIAL NOTE
 
-**No files from Advanced VR Framework have been included with this repo.
+**No files from Advanced VR Framework have been included with this repo.**
 
-**We have not modifed and of their files to make these examples work so a fresh laucnher version will work without issues or changes
+**We have not modifed and of their files to make these examples work so a fresh laucnher version will work without issues or changes**
 
 
 

@@ -2,9 +2,9 @@
 A collection of examples from SSZ Canada for use with the Advance VR Framework for Unreal Engine made by Human Codeable.
 
 
-All examples require you to own the asset Advanced VR Framework (Not Included) for Unreal Engine which can be found at
+All examples require you to own the asset Advanced VR Framework for Unreal Engine which can be found at
 https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
-
+**No files from Advanced VR Framework have been included with this repo. None of their files have been modifed to make these work so a fresh laucnher version will work without issues or changes.**
 
 # How To Use
 Download a copy of Advnace VR Framework from the Unreal Marketplace

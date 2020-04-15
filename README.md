@@ -25,7 +25,7 @@ Enjoy your examples :)
 
 
 # Allowed Usage 
-The examples are provided freely to you without limitation. You may use any of these examples in any way allowed within your licening terms from Unreal Engine.
+The examples are provided freely to you without limitation. You may use any of these examples in any way allowed by licensing terms from Unreal Engine.
 
 
 
